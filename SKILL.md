@@ -16,6 +16,7 @@ metadata:
 # fusionplace-librarian
 
 fusion_place の公式ドキュメントを参照してユーザーの質問に回答するスキル。
+testです。
 
 ## 役割
 
